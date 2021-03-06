@@ -1,0 +1,10 @@
+In conclusion COVID-19 has had a significant impact on citibike ridership:
+-   16% reduction in total trips taken in 2020
+- increase in casual users compared to 2019
+- change in peak hours from 9am & 6am to gradual increase in use throughout the day peaking at 6pm, suggesting more recreational use of citibike
+-reduction in use accross all age groups except 52 year olds who doubled their usage from 25K to 50K trips in 2020
+
+Potential suggestions to increase ridership:
+-offer discounts to users during covid-19
+-market to people in their 50's
+-build more stations in new jersey where the majority of people start and end their trips
